@@ -13,9 +13,10 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+The most difficult part of completin the match function was understanding the function of percent signs. The percent signs and how to use them were complicated to me especially in the beginning. 
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
+I could use the match function for extracting information from a movie database by searching for text that fits a pattern in the movie database. 
 
 
